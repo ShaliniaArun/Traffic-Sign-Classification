@@ -1,6 +1,6 @@
 # Traffic-Sign-Classification
 
-#Abstract
+# Abstract
 
 Traffic signs are an integral part of our road infrastructure. They provide critical information, sometimes compelling recommendations, for road users, which in turn requires them to adjust their driving behaviour to make sure they adhere with whatever road regulation currently enforced.
 
