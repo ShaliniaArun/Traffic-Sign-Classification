@@ -14,4 +14,4 @@ Traditionally, standard computer vision methods were employed to detect and clas
 
 The dataset features 43 different signs under various sizes, lighting conditions, occlusions and is very similar to real-life data. Training set includes about 39000 images while test set has around 12000 images. Images are not guaranteed to be of fixed dimensions and the sign is not necessarily centered in each image. Each image contains about 10% border around the actual traffic sign.
 
-Then download ‘Images and annotations’ for training and test set from GTSRB website and extract them into a folder. Also download ‘Extended annotations including class ids’ file for test set. 
+Then downloaded the ‘Images and annotations’ for training and test set from GTSRB website and extract them into a folder. Also downloaded the ‘Extended annotations including class ids’ file for test set. 
